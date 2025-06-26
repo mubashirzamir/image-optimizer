@@ -1,7 +1,3 @@
-Here's a `README.md` file for your image optimization CLI tool:
-
----
-
 # 📷 optimize-images
 
 A simple Node.js CLI tool that optimizes images by converting them to **WebP** format with multiple **responsive sizes** using the [Sharp](https://sharp.pixelplumbing.com/) library.
